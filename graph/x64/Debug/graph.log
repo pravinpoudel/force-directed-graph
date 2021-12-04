@@ -1,0 +1,6 @@
+﻿  graph.cpp
+D:\HPC learning\graph\graph\graph.cpp(11,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\graph\graph\graph.cpp(12,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\graph\graph\graph.cpp(67,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\HPC learning\graph\graph\graph.cpp(81,69): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  graph.vcxproj -> D:\HPC learning\graph\x64\Debug\graph.exe
